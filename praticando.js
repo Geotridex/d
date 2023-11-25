@@ -1,5 +1,5 @@
 let n1= 12;
-let n2 = 33334;
+let n2 = 3;
 
 const soma = n1+n2;
 
